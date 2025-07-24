@@ -70,7 +70,7 @@ export const CoachingExpert = [
 ]
 
 const OPENROUTER_API_KEY =
-  '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'
+  '&'
 
 const GenerateFeedbackNotes = async () => {
   setfbt(true)
